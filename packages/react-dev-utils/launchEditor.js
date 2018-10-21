@@ -59,6 +59,12 @@ const COMMON_EDITORS_OSX = {
   '/Applications/MacVim.app/Contents/MacOS/MacVim': 'mvim',
   '/Applications/GoLand.app/Contents/MacOS/goland':
     '/Applications/GoLand.app/Contents/MacOS/goland',
+  '/Applications/TextEdit.app/Contents/MacOS/TextEdit':
+    '/Applications/TextEdit.app/Contents/MacOS/TextEdit',
+  '/Applications/UltraEdit.app/Contents/MacOS/UltraEdit':
+    '/Applications/UltraEdit.app/Contents/MacOS/UltraEdit',
+  '/Applications/BBEdit.app/Contents/MacOS/BBEdit':
+    '/Applications/BBEdit.app/Contents/MacOS/BBEdit',
 };
 
 const COMMON_EDITORS_LINUX = {
